@@ -1,0 +1,8 @@
+public class StupidityCalc
+{
+public void main()
+{
+    double StupidityPercentage = Math.round(Math.random()*100);
+    System.out.println("You are "+StupidityPercentage+"% stupid");
+}
+}
